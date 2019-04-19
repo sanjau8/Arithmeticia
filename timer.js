@@ -1,5 +1,5 @@
 var interval;
-var min=0,sec=30;
+var min=2,sec=0;
 function countdown() {
     
     
